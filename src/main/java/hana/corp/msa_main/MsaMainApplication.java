@@ -5,8 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MsaMainApplication {
-
-
     
     public static void main(String[] args) {
         SpringApplication.run(MsaMainApplication.class, args);
