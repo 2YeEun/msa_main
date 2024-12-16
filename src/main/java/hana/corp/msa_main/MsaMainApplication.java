@@ -8,6 +8,7 @@ public class MsaMainApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MsaMainApplication.class, args);
+        
     }
 
 }
