@@ -52,3 +52,4 @@ jobs:
       - name: Push Docker Image
         run: |
           docker push ${{ secrets.DOCKER_USER }}/msa_svc_main:${{ env.DOCKER_TAG }}
+          
